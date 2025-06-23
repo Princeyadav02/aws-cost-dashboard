@@ -4,7 +4,7 @@
 
 body {
   font-family: "Trebuchet MS", sans-serif;
-  background: #1a1a1a;
+  background: #ffffff;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url("https://images.unsplash.com/photo-1611974789855-9c2a0a7236ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80");
   background-size: cover;
